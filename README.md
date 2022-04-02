@@ -1,6 +1,6 @@
 # Tour-Places-React-Project
 
-[result](https://adanurk.github.io/Tour-Places-React-Project/)
+**[result](https://adanurk.github.io/Tour-Places-React-Project/)**
 
 ## Description
 
