@@ -1,5 +1,7 @@
 # Tour-Places-React-Project
 
+[result](https://adanurk.github.io/Tour-Places-React-Project/)
+
 ## Description
 
 Project aims to create a tour places app.
